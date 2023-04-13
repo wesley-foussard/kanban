@@ -8,7 +8,7 @@ Label.init({
     type: DataTypes.TEXT,
     allowNull: false
   },
-  colour: DataTypes.STRING(9)
+  colour: DataTypes.TEXT
 }, {
   sequelize,
   tableName: "label"

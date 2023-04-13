@@ -8,7 +8,7 @@ Card.init({
     type: DataTypes.TEXT,
     allowNull: false
   },
-  colour: DataTypes.STRING(9),
+  colour: DataTypes.TEXT,
   position: {
     type: DataTypes.INTEGER,
     allowNull: false

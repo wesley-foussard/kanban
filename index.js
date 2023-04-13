@@ -11,7 +11,7 @@ const app = express();
 app.use(cors());// Protection que pour les navigateurs
 
 // Pour récupérer les informations envoyés dans le payload
-// Il faut rajouter un middleare qui va parser le payload
+// Il faut rajouter un middleware qui va parser le payload
 // Il va ensuite rajouter les infos récupérées dans le req.body
 app.use(express.json());
 
