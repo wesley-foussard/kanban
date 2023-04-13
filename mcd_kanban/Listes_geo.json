@@ -1,0 +1,25 @@
+{
+  "width": 522,
+  "height": 120,
+  "cx": [
+    [ "LISTE", 45 ],
+    [ "APPARTENIR", 159 ],
+    [ "CARTE", 276 ],
+    [ "AVOIR", 374 ],
+    [ "ETIQUETTE", 473 ]
+  ],
+  "cy": [
+    [ "LISTE", 60 ],
+    [ "APPARTENIR", 60 ],
+    [ "CARTE", 60 ],
+    [ "AVOIR", 60 ],
+    [ "ETIQUETTE", 60 ]
+  ],
+  "shift": [
+    [ "APPARTENIR,CARTE,0", 0 ],
+    [ "APPARTENIR,LISTE,0", 0 ],
+    [ "AVOIR,CARTE,0", 0 ],
+    [ "AVOIR,ETIQUETTE,0", 0 ]
+  ],
+  "ratio": []
+}
